@@ -10,3 +10,4 @@ if fiad.upper()=='S':
 else:
     print('Você não é elegível para o empréstimo.')
     print("Arthur esteve aqui")
+    print("naluuuu")
